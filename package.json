@@ -1,5 +1,5 @@
 {
-  "name": "rc-progress",
+  "name": "@hawjs/progress",
   "version": "3.4.1",
   "description": "progress ui component for react",
   "keywords": [

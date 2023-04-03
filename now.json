@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "rc-progress",
+  "name": "haw-progress",
   "builds": [
     {
       "src": "package.json",
