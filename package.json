@@ -8,14 +8,15 @@
     "react-progress",
     "progress"
   ],
-  "homepage": "http://github.com/react-component/progress",
+  "homepage": "http://github.com/hawjs/progress",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/progress.git"
+    "url": "git@github.com:hawjs/progress.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/progress/issues"
+    "url": "http://github.com/hawjs/progress/issues"
   },
+  "author": "hawjs",
   "license": "MIT",
   "main": "./lib/index",
   "module": "./es/index",
